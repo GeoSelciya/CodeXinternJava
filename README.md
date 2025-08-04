@@ -1,5 +1,5 @@
 # CodeXinternJava
-ava Console Calculator
+Java Console Calculator
 Description
 This is a simple Java console-based calculator that supports addition, subtraction, multiplication, and division. It demonstrates core programming concepts including methods, conditionals, loops, input/output, and basic error handling (e.g., divide-by-zero). The program repeatedly shows a menu, accepts the user's choice and operands, performs the calculation, and displays the result until the user chooses to exit.
 
